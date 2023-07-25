@@ -1,0 +1,6 @@
+Data
+models
+.idea
+.ipynb_checkpoints
+.pytest_cache
+__pycache__
