@@ -8,13 +8,11 @@ tqdm
 scikit-learn
 scipy
 folium
-pathlib
 matplotlib
 PIL
 shapely
 numpy
-copy
 tkinter
-urllib
-math
+
+
 
